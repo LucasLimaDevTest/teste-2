@@ -3,3 +3,4 @@ testando
 testando 3
 testando 4
 funcionalidade 1
+funcionalidade 2
