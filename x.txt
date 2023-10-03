@@ -1,3 +1,9 @@
-testando 
-comando
-git diff
+
+texto novo
+a
+a
+x
+c
+b
+x
+x
